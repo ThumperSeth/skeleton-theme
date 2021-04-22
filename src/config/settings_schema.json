@@ -1,10 +1,10 @@
 [
   {
     "name": "theme_info",
-    "theme_name": "Skeleton theme",
-    "theme_version": "1.0.0",
-    "theme_author": "THEME_AUTHOR",
-    "theme_documentation_url": "https:\/\/THEME_DOCUMENTATION_URL.com\/",
-    "theme_support_url": "https:\/\/THEME_SUPPORT_URL.com\/"
+    "theme_name": "thumpy-fab-skeleboi",
+    "theme_version": "1.0.0-alpha.1",
+    "theme_author": "Heth Hobles & Hacob Hailey, Hattorneys at Haw",
+    "theme_documentation_url": "https:\/\/www.thumperfab.com\/",
+    "theme_support_url": "https:\/\/www.thumperfab.com\/"
   }
 ]

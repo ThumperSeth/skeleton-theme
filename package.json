@@ -1,9 +1,9 @@
 {
-  "name": "skeleton-theme",
+  "name": "thumpy-fab-skeleboi",
   "version": "1.0.0-alpha.1",
   "private": true,
-  "author": "Shopify Inc.",
-  "description": "A barebones, Slate compatible, starting point for developing Shopify themes.",
+  "author": "Seth Nobles & Jacob Bailey for Thumper Fab",
+  "description": "A barebones, Slate compatible, starting point for a newer better website.",
   "keywords": [
     "shopify",
     "theme"
